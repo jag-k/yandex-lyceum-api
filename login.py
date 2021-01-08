@@ -3,7 +3,7 @@ from getpass import getpass
 from io import StringIO
 from sys import stderr
 
-from api import User
+from yandex_lyceum_api import User
 
 warnings.filterwarnings("ignore")
 
